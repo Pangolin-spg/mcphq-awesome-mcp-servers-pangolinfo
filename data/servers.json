@@ -3227,6 +3227,24 @@
     "official": true
   },
   {
+    "name": "Pangolinfo Amazon Data MCP",
+    "url": "https://www.pangolinfo.com/amazon-data-mcp/",
+    "description": "Hosted Streamable HTTP MCP for Amazon product, search, review and seller-data lookups; requires a Pangolinfo API key and includes 60 free credits monthly.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "TypeScript",
+    "provider": "Pangolinfo",
+    "tags": [
+      "amazon",
+      "ecommerce",
+      "product-data",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.pangolinfo.com/mcp"
+    }
+  },
+  {
     "name": "Invokely",
     "url": "https://invokely.ai/docs",
     "description": "Query source-cited official statistics by indicator, place and period; retrieve values and time series, compare places, and rank regions. No-account MCP trial allows 25 calls per IP per day.",

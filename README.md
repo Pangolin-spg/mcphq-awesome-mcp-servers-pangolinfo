@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-567-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-568-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -52,7 +52,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Data, Analytics, and BI](#data-analytics-and-bi) (58)
 - [Legal and Court Data](#legal-and-court-data) (8)
 - [Security and Identity](#security-and-identity) (28)
-- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (119)
+- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (120)
 - [Utilities and Examples](#utilities-and-examples) (23)
 - [Logistics and Shipping](#logistics-and-shipping) (1)
 
@@ -1141,6 +1141,8 @@ Payments, banking, CRM, e-commerce, and business system integrations.
   `greeting-cards` `shopping` `printing` `read-only` `remote`
 - **[PandaStock](https://github.com/D-Asce/pandastocksdk)** `Python` — A-share real-time market data MCP server with NATS-pushed quotes, Level2, DDX big orders, money flow and AI stock screening; 176 server-side endpoints, 22 open endpoints, free public test account.  
   `a-share` `stock-data` `real-time-quotes` `market-data`
+- **[Pangolinfo Amazon Data MCP](https://www.pangolinfo.com/amazon-data-mcp/)** `Official` `TypeScript` — Hosted Streamable HTTP MCP for Amazon product, search, review and seller-data lookups; requires a Pangolinfo API key and includes 60 free credits monthly.  
+  `amazon` `ecommerce` `product-data` `remote`
 - **[PayPal MCP Server](https://github.com/paypal/agent-toolkit)** `Official` `TypeScript` — Process PayPal payments and manage merchant operations.  
   `payments` `commerce` `fintech`
 - **[Pink Agentic AI Payments](https://pinkwallet.com/agentic/developers/)** `Official` `TypeScript` — Approval layer for AI agent payments: per-agent budgets and rules return allow (single-use credential), ask a human, or block before money moves, over remote Streamable HTTP with OAuth 2.1; public sandbox with test money only.  

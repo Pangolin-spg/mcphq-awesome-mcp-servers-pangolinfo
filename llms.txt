@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 567 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 568 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -549,6 +549,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [OutreachGenie](https://github.com/Outreachgenie/outreachgenie-linkedin-mcp): Manage saved prospects, lists, outreach flows and campaign drafts in an OutreachGenie workspace over hosted MCP; requires an account and OAuth or a bearer API key, with broader permissions for API keys. (TypeScript, official)
 - [Panda Greetings](https://www.pandagreetings.com/ai-assistants): Finds ready-made greeting card designs for an occasion with your message placed inside, each linking to its page to order it printed and mailed in the US; free hosted server, no sign-in. (JavaScript, official)
 - [PandaStock](https://github.com/D-Asce/pandastocksdk): A-share real-time market data MCP server with NATS-pushed quotes, Level2, DDX big orders, money flow and AI stock screening; 176 server-side endpoints, 22 open endpoints, free public test account. (Python)
+- [Pangolinfo Amazon Data MCP](https://www.pangolinfo.com/amazon-data-mcp/): Hosted Streamable HTTP MCP for Amazon product, search, review and seller-data lookups; requires a Pangolinfo API key and includes 60 free credits monthly. (TypeScript, official)
 - [PayPal MCP Server](https://github.com/paypal/agent-toolkit): Process PayPal payments and manage merchant operations. (TypeScript, official)
 - [Pink Agentic AI Payments](https://pinkwallet.com/agentic/developers/): Approval layer for AI agent payments: per-agent budgets and rules return allow (single-use credential), ask a human, or block before money moves, over remote Streamable HTTP with OAuth 2.1; public sandbox with test money only. (TypeScript, official)
 - [Plaid MCP Server](https://plaid.com/docs/resources/mcp/): Connect bank accounts and retrieve financial transaction data. (TypeScript, official)
